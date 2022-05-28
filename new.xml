@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person firstName="Анастасия" lastName="Полкова" "yearsOld"="29">
+	<petsCount>7</petsCount>
+	<salary currency="$">3500</salary>
+</person>
+
