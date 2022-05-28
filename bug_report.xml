@@ -1,1 +1,13 @@
-
+<?xml version="1,0" encoding="UTF-8"?
+<bugReport id="30">
+  <title>The button "SAVE DATA" is smaller than the others</title>
+  <severity>Trivial</severity>
+  <priority>Low</priority>
+  <environment>
+    <smartpnone>Samsung Galaxy A8</smartpnone>
+    <smartpnone>Xiaomi Redmi 5 Plus</smartpnone>
+  </environment>
+  <actualResult>The application buttons have one view</actualResult>
+  <expectedResult>The button "SAVE DATA" is smaller than the others</expectedResult>
+  <attachments>https://www.google.com</attachments>
+</bugReport>
